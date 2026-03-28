@@ -1,1 +1,12 @@
-For this task, I used HackerRank to practice my coding. I completed the "Hello World" challenge in Python, which is the main language I am learning for my AI and ML specialization. Using a platform like this is helpful because it gives me a clear way to test my code and see if it actually works.For the collaboration part, I made a 'Digital Literacy Awareness Quiz' using Google Forms. I included five questions about digital tools and security which can be potentially used to test how much my batchmates know. I also linked the form to a Google Sheet so I can see all the responses in one place. This is really useful for group projects because it makes it easy to collect data and stay organized. Learning these platforms helps me manage my academic work better and collaborate with my team. It’s a practical way to use tech for more than just writing code. The google forms help in a lot of ways from coming to a conclusion to testing the skills of a group of people , it helps in a lot of ways. I tried to put the basic questions so that everybody can answer well and know where they lack.
+For this task, I used HackerRank to practice my coding. I completed the "Hello World" challenge in
+ Python, which is the main language I am learning for my AI and ML specialization. Using a platform
+like this is helpful because it gives me a clear way to test my code and see if it actually works.
+For the collaboration part, I made a 'Digital Literacy Awareness Quiz' using Google Forms. I 
+included five questions about digital tools and security which can be potentially used to test how 
+much my batchmates know. I also linked the form to a Google Sheet so I can see all the responses in 
+one place. This is really useful for group projects because it makes it easy to collect data and 
+stay organized. Learning these platforms helps me manage my academic work better and collaborate 
+with my team. It’s a practical way to use tech for more than just writing code. The google forms 
+help in a lot of ways from coming to a conclusion to testing the skills of a group of people , it 
+helps in a lot of ways. I tried to put the basic questions so that everybody can answer well and 
+know where they lack.
